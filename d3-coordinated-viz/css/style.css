@@ -1,1 +1,19 @@
 /*style.css*/
+
+.gratLines {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1px;
+}
+
+.gratBackground {
+    fill: #D5E3FF;
+}
+.states {
+    fill: #FFF;
+    stroke: #CCC;
+    stroke-width: 2.5px;
+}
+.map {
+    border: medium solid #999;
+}
